@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" role="img" aria-label="Etapa 01 - Discovery do Negocio - Concluida">
+  <defs>
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', 'Noto Serif', serif; }
+      .sans  { font-family: 'Segoe UI', Helvetica, Arial, 'Noto Sans', sans-serif; }
+      .ink   { fill: #1E1B16; }
+      .muted { fill: #8A8375; }
+      .paper { fill: #F5F2EC; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1200" class="paper"/>
+  <rect x="40" y="40" width="1120" height="1120" fill="none" stroke="#1E1B16" stroke-width="2"/>
+
+  <text x="92" y="150" class="sans muted" font-size="21" letter-spacing="4">SÉRIE · CONSTRUINDO UM ECOSSISTEMA DIGITAL</text>
+
+  <text x="86" y="330" class="serif ink" font-size="150" font-weight="600">ETAPA 01</text>
+  <text x="92" y="410" class="serif ink" font-size="52">Discovery do Negócio</text>
+
+  <rect x="92" y="452" width="214" height="56" rx="28" fill="#B5643C"/>
+  <text x="199" y="489" class="sans" fill="#F5F2EC" font-size="22" letter-spacing="4" text-anchor="middle">CONCLUÍDA</text>
+
+  <g>
+    <rect x="92" y="566" width="48" height="10" fill="#B5643C"/>
+    <rect x="148" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="204" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="260" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="316" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="372" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="428" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="484" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="540" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="596" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="652" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="708" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="764" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="820" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="876" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="932" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="988" y="566" width="48" height="10" fill="#DAD3C6"/>
+    <rect x="1044" y="566" width="48" height="10" fill="#DAD3C6"/>
+  </g>
+  <text x="92" y="612" class="sans muted" font-size="19" letter-spacing="3">01 / 18</text>
+
+  <text x="92" y="700" class="sans muted" font-size="21" letter-spacing="4">O QUE FOI ENTREGUE</text>
+
+  <g class="sans ink" font-size="27">
+    <text x="92" y="756">—  Levantamento do negócio: fato separado de hipótese</text>
+    <text x="92" y="818">—  Roteiro de entrevista + questionário estruturado</text>
+    <text x="92" y="880">—  Script que gera o formulário de pesquisa automaticamente</text>
+    <text x="92" y="942">—  Consolidação: matriz de validação, riscos e oportunidades</text>
+    <text x="92" y="1004">—  Registro de decisões abertas + gate de encerramento</text>
+  </g>
+
+  <line x1="92" y1="1066" x2="1108" y2="1066" stroke="#DAD3C6" stroke-width="2"/>
+  <text x="92" y="1104" class="sans muted" font-size="20">Site + presença digital de uma arquiteta urbanista</text>
+  <text x="92" y="1134" class="sans muted" font-size="20">Processo conduzido com apoio de IA  ·  Próxima etapa: Público-alvo</text>
+</svg>
